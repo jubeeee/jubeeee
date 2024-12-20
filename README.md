@@ -1,29 +1,20 @@
+# Welcome to My GitHub!
 
-Welcome to My GitHub Profile!
-Hello! I'm a passionate engineer specializing in design verification and digital design. Here, you can find various projects that showcase my skills in Verilog, SystemVerilog, and digital circuit design.
+I'm JuberIndikaR, an aspiring Verification Engineer with a strong passion for VLSI design and verification. Currently diving deep into SystemVerilog, digital design, and verification techniques. My focus is on developing and optimizing verification environments for high-performance semiconductor projects.
 
-🌟 About Me
-I have a strong foundation in hardware design and verification methodologies. I'm particularly interested in:
-Digital Circuit Design
-Design Verification
-FPGA Development
-Embedded Systems
-I enjoy tackling complex engineering challenges and continually learning new technologies and methodologies.
+### What You’ll Find Here:
+- **Design Verification Projects**: Including work with SystemVerilog, AXI protocol, and SPI verification.
+- **VLSI Projects**: Digital and analog designs, as well as various related research and experiments.
+- **Code Samples & Tools**: A collection of scripts, code snippets, and utilities focused on VLSI and digital verification.
+- **Learning Resources**: My exploration of VLSI, design automation, and simulation tools.
 
-🚀 Projects
-Traffic Light Controller
-*Implemented a traffic light controller using Verilog, featuring a state machine that manages the light signals based on timing parameters.
-IoT based Smart Electricity Energy Meter
-*designed a system which monitors the power consumption and informs to user through Blynk platform
-🛠️ Skills
-Languages: Verilog, SystemVerilog, VHDL, C/C++, Python
-Verification Methodologies: UVM, OVM
-Tools: ModelSim, VCS, QuestaSim, Xilinx Vivado
+### Currently Working On:
+- **Questa Sim Debugging**: Enhancing my understanding of simulation environments for efficient debugging.
+- **VLSI Verification**: Building comprehensive verification testbenches for various protocols.
 
-Digital Design: Familiar with designing and verifying digital circuits, including FPGAs and ASICs.
-📫 Connect with Me
-Feel free to reach out if you have any questions, suggestions, or collaboration ideas!
+### Let’s Connect!
+I’m always open to collaboration, sharing knowledge, and learning from others. Feel free to reach out if you’re working on similar projects or have any questions!
 
-juberindikar@gmail.com
-https://www.linkedin.com/in/juber-indikar-8b7629249
+---
 
+[ LinkedIn ]( https://www.linkedin.com/in/juber-indikar-8b7629249/ ) | [ Email ]( juberindikar@gmail.com )
